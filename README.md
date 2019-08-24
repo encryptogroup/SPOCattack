@@ -1,7 +1,5 @@
-# SPOCattack
-
-## Implementation of our Attacks on the Privacy Preserving Scalar Product Protocol proposed in SPOC [Pre-Print](https://arxiv.org/abs/1906.04862)
-by Thomas Schneider & Amos Treiber ([ENCRYPTO](https://encrypto.de))
+## Implementation of our Attacks on the Privacy Preserving Scalar Product Protocol proposed in SPOC
+#### by Thomas Schneider & Amos Treiber ([ENCRYPTO](https://encrypto.de)), pre-print available [here](https://arxiv.org/abs/1906.04862)
 ----
 
 * Requirements: Python 3 with gmpy2, matplotlib & tikzplotlib to reproduce the plots.
