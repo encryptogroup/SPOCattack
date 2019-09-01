@@ -1,5 +1,5 @@
 ## Implementation of our Attacks on the Privacy Preserving Scalar Product Protocol proposed in SPOC
-#### by Thomas Schneider & Amos Treiber ([ENCRYPTO](https://encrypto.de)), pre-print available [here](https://arxiv.org/abs/1906.04862)
+#### by Thomas Schneider & Amos Treiber ([ENCRYPTO](https://encrypto.de)) in [IEEE TPDS](https://www.computer.org/csdl/journal/td), pre-print available [here](https://arxiv.org/abs/1906.04862)
 ----
 
 * Requirements: Python 3 with gmpy2, matplotlib & tikzplotlib to reproduce the plots.
